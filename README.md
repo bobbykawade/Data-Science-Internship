@@ -1,8 +1,5 @@
-# Technocolabs Internship Pre-requisites
-This repository contains all the pre-requisite notebooks for my internship as a Machine Learning Developer at Technocolabs. 
-
-It includes some of the micro-courses from kaggle. They are enlisted below:
-
+# Internship Pre-requisites
+ALl Kaggle Notebook for Data Science Internship
 - [Data Cleaning](https://www.kaggle.com/learn/data-cleaning)
 - [Data Visualization](https://www.kaggle.com/learn/data-visualization)
 - [Data Manipulation](https://www.kaggle.com/learn/pandas)
@@ -11,5 +8,5 @@ It includes some of the micro-courses from kaggle. They are enlisted below:
 - [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability)
 - [Feature Engineering](https://www.kaggle.com/learn/feature-engineering)
 
-That's all for now. Happy Coding everyone!
+
 
